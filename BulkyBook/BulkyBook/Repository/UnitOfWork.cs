@@ -1,4 +1,5 @@
 ﻿using BulkyBook.DataAccess.Data;
+using BulkyBook.Repository;
 using BulkyBook.Repository.IRepository;
 using System;
 using System.Collections.Generic;
@@ -15,9 +16,12 @@ namespace BulkyBook.DataAccess.Repository
         {
             _db = db;
             Category = new CategoryRepository(_db);
+            CoverType = new CoverTypeRepository(_db);
+            SP_Call = new SP_Class(_db);
         }
 
         public ICategoryRepository Category { get; private set; }
+        public ICoverTypeRepository CoverType { get; private set; }
         public ISP_Call SP_Call { get; private set; }
 
         public void Dispose()

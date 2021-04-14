@@ -451,3 +451,5 @@ C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\View
 C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
 C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
 C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Index.cshtml.g.cs
+C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\CoverType\Upsert.cshtml.g.cs
