@@ -457,3 +457,5 @@ C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\bin\Debug\net5.0\Microsoft.AspNetCore.J
 C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
 C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Upsert.cshtml.g.cs
+C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Index.cshtml.g.cs
+C:\SF.Code\BulkyBook\BulkyBook\BulkyBook\obj\Debug\net5.0\Razor\Areas\Admin\Views\Company\Upsert.cshtml.g.cs
