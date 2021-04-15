@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BulkyBook.Repository.IRepository
 {
-   public interface IApplicationUserRepository : IRepository<ApplicationUser>
+   public interface IApplicationUserRepository 
     {
         
     }
